@@ -1,7 +1,8 @@
 # Solve me first - HackerRank
 
 ### Primeiro desafio que fiz no hacker rank. Muito simples, apenas somar dois inteiros passados no argumento da função "solveMeFirst".
-<hr>
+
+## Solução
 
 <code>
 function solveMeFirst(a, b) {
